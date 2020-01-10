@@ -1,0 +1,364 @@
+Detect public symbols                                                                                     
+Reading debug-info                                                                                        
+WARNING: the object should be compiled with -Og option for better analysis                                
+Creating ABI dump                                                                                         
+
+The object ABI has been dumped to:
+  asHost-3.14.12.7.dump           
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  asHost-3.14.12.8.dump           
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/asHost/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                  
+Reading debug-info                                                     
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  asIoc-3.14.12.7.dump            
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  asIoc-3.14.12.8.dump            
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/asIoc/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                 
+Reading debug-info                                                    
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  ca-3.14.12.7.dump               
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  ca-3.14.12.8.dump               
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/ca/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                              
+Reading debug-info                                                 
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  cas-3.14.12.7.dump              
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  cas-3.14.12.8.dump              
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/cas/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                               
+Reading debug-info                                                  
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  Com-3.14.12.7.dump              
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  Com-3.14.12.8.dump              
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/Com/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                               
+Reading debug-info                                                  
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  dbIoc-3.14.12.7.dump            
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  dbIoc-3.14.12.8.dump            
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/dbIoc/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                 
+Reading debug-info                                                    
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  dbStaticHost-3.14.12.7.dump     
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  dbStaticHost-3.14.12.8.dump     
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/dbStaticHost/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                        
+Reading debug-info                                                           
+WARNING: the object should be compiled with -Og option for better analysis   
+Creating ABI dump                                                            
+
+The object ABI has been dumped to:
+  dbStaticIoc-3.14.12.7.dump      
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  dbStaticIoc-3.14.12.8.dump      
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/dbStaticIoc/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                       
+Reading debug-info                                                          
+WARNING: the object should be compiled with -Og option for better analysis  
+Creating ABI dump                                                           
+
+The object ABI has been dumped to:
+  dbtoolsIoc-3.14.12.7.dump       
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  dbtoolsIoc-3.14.12.8.dump       
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/dbtoolsIoc/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                      
+Reading debug-info                                                         
+WARNING: the object should be compiled with -Og option for better analysis 
+Reading v-tables                                                           
+Creating ABI dump                                                          
+
+The object ABI has been dumped to:
+  gdd-3.14.12.7.dump              
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Reading v-tables                                                          
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  gdd-3.14.12.8.dump              
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/gdd/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                               
+Reading debug-info                                                  
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  miscIoc-3.14.12.7.dump          
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  miscIoc-3.14.12.8.dump          
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/miscIoc/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                   
+Reading debug-info                                                      
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  recIoc-3.14.12.7.dump           
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  recIoc-3.14.12.8.dump           
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/recIoc/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                  
+Reading debug-info                                                     
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  registryIoc-3.14.12.7.dump      
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  registryIoc-3.14.12.8.dump      
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/registryIoc/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols                                                       
+Reading debug-info                                                          
+WARNING: the object should be compiled with -Og option for better analysis  
+Creating ABI dump                                                           
+
+The object ABI has been dumped to:
+  rsrvIoc-3.14.12.7.dump          
+Detect public symbols             
+Reading debug-info                
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump                                                         
+
+The object ABI has been dumped to:
+  rsrvIoc-3.14.12.8.dump          
+Preparing, please wait ...        
+Comparing ABIs ...                
+Comparing APIs ...                
+Creating compatibility report ... 
+Binary compatibility: 100%        
+Source compatibility: 100%        
+Total binary compatibility problems: 0, warnings: 0
+Total source compatibility problems: 0, warnings: 0
+Report: compat_reports/rsrvIoc/3.14.12.7_to_3.14.12.8/compat_report.html
+Detect public symbols
+Reading debug-info
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump
+
+The object ABI has been dumped to:
+  softDevIoc-3.14.12.7.dump
+Detect public symbols
+Reading debug-info
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump
+
+The object ABI has been dumped to:
+  softDevIoc-3.14.12.8.dump
+Preparing, please wait ...
+ERROR: no symbols info in the ABI dump
+Detect public symbols
+Reading debug-info
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump
+
+The object ABI has been dumped to:
+  testDevIoc-3.14.12.7.dump
+Detect public symbols
+Reading debug-info
+WARNING: the object should be compiled with -Og option for better analysis
+Creating ABI dump
+
+The object ABI has been dumped to:
+  testDevIoc-3.14.12.8.dump
+Preparing, please wait ...
+ERROR: no symbols info in the ABI dump

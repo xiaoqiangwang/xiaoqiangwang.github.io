@@ -1,0 +1,20 @@
+# epics base dirname, e.g. base-3.14.12.7
+old_base=$1
+new_base=$2
+
+# derive epics base version from dirname
+old_base_ver=${old_base#*base-}
+new_base_ver=${new_base#*base-}
+
+# epics 3.14 libs to check abi
+libs='asHost asIoc ca cas Com dbIoc dbStaticHost dbStaticIoc '
+libs+='dbtoolsIoc gdd miscIoc recIoc registryIoc '
+libs+='rsrvIoc softDevIoc testDevIoc '
+
+# abi dump and check
+for lib in ${libs};do
+    abi-dumper ${old_base}/lib/${EPICS_HOST_ARCH}/lib${lib}.so -o ${lib}-${old_base_ver}.dump -lver ${old_base_ver} -public-headers ${old_base}/include
+    abi-dumper ${new_base}/lib/${EPICS_HOST_ARCH}/lib${lib}.so -o ${lib}-${new_base_ver}.dump -lver ${new_base_ver} -public-headers ${new_base}/include
+    abi-compliance-checker -l ${lib} -old ${lib}-${old_base_ver}.dump -new ${lib}-${new_base_ver}.dump
+    rm -f $lib-$old_base_ver.dump $lib-$new_base_ver.dump
+done
